@@ -5,7 +5,7 @@ import './App.css';
 
 
 //components
-import Board from './components/Board';
+import Board from './components/Board.jsx';
 
 function App() {
 
